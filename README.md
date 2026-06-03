@@ -1,4 +1,5 @@
-## Hi there 👋
-I'm Nicholas welcome to my corner of GitHub! I spend most of my time writing C#, Python and other languages, chasing new things to learn, and hitting the gym when I step away from the keyboard.
+## Welcome to my corner of GitHub! I'm Nicholas. 👋
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,godot,linux,windows,vscode,visualstudio,rider)](https://skillicons.dev)
+I'm a versatile developer with a passion for exploring different languages, building cool projects, and constantly learning. When I'm not at the keyboard, you can find me at the gym.
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,go,godot,linux,windows,vscode,visualstudio,rider)](https://skillicons.dev)
